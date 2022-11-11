@@ -1,0 +1,437 @@
+{
+    "id": "skasiarcheio-pita-grill",
+    "shop": "Σκασιαρχείο pita & grill",
+    "logo": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUSExIWFhUXGBoYFxgXFxgXGhoXGhgXGBgaFxcaHSggGBolHRkdITEhJSkrLi4uGB81ODMsNygtLisBCgoKDg0OGxAQGy0lICYtLi8tMi8tLS81LS0tLi4wLS01Ly8tLS0tLS0tLy0tLy8tLS0tLS8tLS0tLS0tLS0tLf/AABEIAOAA4QMBIgACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAAAQUGBwIDBAj/xABNEAACAQIEAQcGCwUECQUBAAABAgMAEQQFEiExBgcTIkFRYRQycYGRoRUzQlJTcpKxwdHwI2KCorI0k7PhCCQ1Q3N0g8LSJWPT4vEW/8QAGwEAAgMBAQEAAAAAAAAAAAAAAAQDBQYCAQf/xABDEQABAwEEBgYFCQcFAQAAAAABAAIRAwQSITEFQVFhcYETIpGhwfAGFDKx0SMzNGJygqLh8SRCUmOywtNDU3OD0jX/2gAMAwEAAhEDEQA/AKgwmGMjBR3i522HC/jW6XLnBsADsu5ZB5yhuF6xyuUiaOzWu6g+IuK24vHShrCQgaY/fEhNQuL+kuiMlZUqVm9V6SoHTfjCMonI/DOdS0+QSdw+2n50eQydw+2n50fCE30ho+EZvpD7q6+V+r3qL9i/mfgR5DJ3D7afnR5DJ80fbT86PhCb6Q+6jy+b6Q+6j5X6vej9i/mfgR5DJ3D7afnSjASdw+2n50eXzfSH3UeXzfSH3V58r9XvRNi/mfgR5DJ3D7afnS+Qv80fbT86Ty6b6RvdWXl830ho+V+r3o/Yv5n4EeRP80fbT860SRlTZuPqP3Vv8vl+kNaZZCxuxua6bfnrRyUVX1e78nfn612O5YgUpFJWVdpdIBSNS0GhCSlWit+CwryusUalpHYKijiWJAAoQtNKiliFAJJIAAFySdgAO0k1OF5vkvvjBo1vaTo+r0ECjyrEHrfFrJ+zT55sdgad+ZHkwJ8U+NcEw4ZrR6gAWlO4LC5AKIQxHYXWx2oQqxZCCQRYgkEdxGxFFqe+TkGHxWKdJ2MflGsQyXssc7tqjMg7UPmH61/ENePwbwSPDKumSNirqexhx9I7Qe0WNCFz2pLVlesh6aEJEFANDGsaELO9ArC9KKEJbGilvRQhYZf8dF9df6hWWY+f/wBOL/DSscv+Oj+uv9QrLMPPH1Iv8JKi/wBb7vinx/8APP8Ay/2LmoooqVIIooqQ8iuSE+ZzGGEqoQBpHe+lVJsNhuzHew8DuKEKPGsqtHO+abDYMKcTnMURbzQ8Fr242/bXIF+Nu2uGHmzZD0zu2LweliJMu0SyahbSDG54Wv5uqxtwoQq8FFWTLzdQ4jATY3BHGIYC+qLGRorOEUM/R9Hw2JtxuVI241WooQs1HDvrpOXT/QyfZNc8T2IPcQfZTkc1X6F/7+Soqjqgi4J88QnrJTsjwfWHluyJ55Mf4c9XL8HTfQyfZP5UvwdP9DJ9k/lXT8Kr9E/9/JR8Kr9C/wDfyfnUd+v/AAjz95Oer6L/AN53Y7/Cuf4Pn+hk+yaT4Om+hk+yfyrp+FF+if8Av5KX4UX6J/7+T86L9f8AhHn7yPV9F/7zux3+FcE0LIbOuk+NSrmqzBIM0wzOgcO3RC/yGl6iuvjc29DNUZxcuttWnTta2ot/M1THmcwCS5kjybrCjTAd7qVVL+jXq9Kip2zGOaqaoYHkUzLZwO7sHuHAKSc8PKLpJ1ynBRqPi4pdCgFmLAw4dSOCAsCRwuQNrG7znvKbCZJgPgyFjJihEyto4JLIpLSSseHWbUE3NtPAWNQTmybp85WeUXa8+IIPbIdX3NJf+Gl5rI0mzKSTFoJWEU0xR1Dapta6iVIIJGpvX6K6Ua2clI8uXCxvHJgjjN9fwi0nRxm/VEcSrocWsdbEkH2CJ8pZpXxUzzTxzyFgWliIaN+qttBAA0gWXhtpqdpzuq0elsowrXHC4C/ZMZ++tGX8l1zSKbMHEGAjCssUcMYEZ6PUWkku2wv1SQB5nhuIVcWrKsQOBO1F6EJWpL1kwpVFCFiKWlooQi5opNVFCEmX/HRfXX+oUuYfGf8ATi/w0pMv+Oi+uv8AUKyzDzx9SL/CSov9b7vinx9A/wC3+xc1FFFSpBFTHmu5YDLMWXkBMMq6JQOK2N1cDtK77doY8TaodS0IXoLnL5DDN0jx+DmV5BEFVbjRLGGZhpf5D3ZuO3YbWvVIYDH4vATt0UkuHmVtLgXU3X5MiHZvQwIq4v8AR+wuLSGd5LrhHsYg21331ul/k2sCeBI24GopyrzTL8ZnMuJdlOGgi1NY28qkiFhHGflaiyrftWM9m9CFwZtzt5hicO+GYwqHUo7xxkOVOzC5cqLjbZR4WqCL3V6UzPknh8dgsIMTh4oZ9KyCKHTCxOi7QKx3C7gNx83bexEQwUUk00+SPlOGw5dQyvHZuhhBF5mkIJnfhpa69awNt6EKnWYDiRQpHCrwmxWGwOZYbJ8HgYpVJAxLOFeRy6EgM7A7Kv7RtuGwCji/5lyHweLxEeGWCOPC4UBpREqoZJnXqRs69ayx9Zt7npU342ELzebd9KGHfV4c3uOhxuYYvDDAYJcNCrdGUgjJBWUIpLkdfUNTcOynbF5QTlyRnC4VcdjP2KtHAiKqyaiX4EjRAGY78RbiQKELz0SBxNqU1c2dzYbJZsJl+DwiYieQoZnkCtI6s+lY1YghC5B24KBw3uJByt5HQYmSHL8NDFh0v5RipIo0DLHdgiKdPnO+u19gIj2DSRC89MbcbU7cl88OCxAnAuLFXF7XVrHY9huAfVVn5XmUC5ymVYTBYYYVWeOVmjEskpWJmdnka52YabG+6m53sOHOmwOTY5hDFDPLJiF6jjWuFw5EZdQPkyMXbSd7Ko9YhR+POsujxIx0ZnSQFmKIF0ksCGvfaxub2a3dSxZ/gDiVxySSYaXUS66davfZrhb21A77jfe196mnOjh8DlkvlkeGifFTLpiiZAYUZCTJiDGNi9mVR4799PnLLDpFg/hHAYHDPPIIyX6ESvoa28aqtnbrDfYWBJvYChCoXOHw7TMcPqWEna+9r8dI+aL7A9gp35ScqOliTCwXjwsYVQCbF9NrF/Dtt2nc78Lq5ErBjMEmOlwMZxKq8bM8MSF5Eax02GylxpFwCCCPTE+XOATI8JG8EcD4ueRulxEkau4Ni79BEwKomo2twAtcEm4EKnSL7/rtpBVlc8WTRwjA4hYkilnibp1RQqmRViJYINgbuwJ+rVaW4UIWbHwoUfr9emi1ZKKEIC/r8aCKWlFCFq0+mlrZf9XooQuaGTSwYcQQfZRPLqNz81R9lQv4VroryBMrvpHXLk4TMb4iexFFFJXq4Vt5TyTyfB4HC4rM2kkfFKGQJ0uldShgoEW9wGFyTub2FSnCc1GWl0xcSzyRBOkXCvtrNroD0oV1Bt5rkAm1za4NOZLy4zDCRdDh8WyRjcKVSQLf5mtW0d9hbia0YTlXjY8T5WuJl6c8XLFtQ+aynZk/dtYdlqEKS84PLzH4h3wjocJEnVOHUFW022ErbahbgBZSLbHjXPzYci5cfiopDHfCxSjpnJW11AkEdibtfqg2GwapSnOJlmZRrFm+E0yKLCaIMR6VK/tI7n5PWBtv3U24zlHluXQTxZVPi5ZJ0KXd3SKLUAGdVKoTLbYNYkW4jgRCkOfZkMfymwmHDfs8I5AseMqI072/iREI/cNT3L4ZRi8xxRhOoLHFh77dIkcbSdU9xkkIv4Dury1HiHDiQOwcNq1hiG1Xvq1Xvqvve967zn2LL9KcXiDJbTr6aXXp+bq1XtccL0IV180/Jx48TPi8cR5fIC/RXBeOORiS7AeaXIsB2Ktu0gdeLxuNTJ8XKIXXGzSOxjA1Sok03RodCXYFYbAdvUHdVB4bMZo5DLHNKkpveRZHVzfjd1Oo3sO3sFbIc2xCSNKmImSR/OkWWQO31nB1N6zQhXdzc5fFk8MSYllXGY6RFEVxqVL2RT3abkk/OYLvtU1jSR8xZmjYRQ4dViY7Kzyvqlt32WOMeF2768pzzu7mR3ZnJuXZmZiRaxLHfauyXPsWzLI2LxBdQQjGeUsoPEKS1wPRQhXLyF5PyvmkuPzEBMU+t8PAWBYIpEZksOCqpVFvubse41OMeZo4pugVTi5y5jDtZRpGlC3cqrpJA4sx4ar15r5NNLPmGGHTS9LLNGrSCRxJpZgHPSX1eZftqbc9/KGUZmkcUrxnDxABkZkYPL1nsykHdAnsoQu3m+wC5PDNmuYgpM4McETm0rkm7mxPF2A3PAAsTZqb885DTfCcsuMlBwwticViQrIiqSSYUJ859gq6STZlPHaq3x2OlmbXNK8rWtqkdna3dqYk2rbic2xEqLHJPNIi20rJK7qtthpVmsLeFCF6A5b8nlzSfKp1DPhizmQr9G6LKmq3BWMekns100c4s2ajEw4LK4JoYY4xpaFQkTFu9x1EVALaSRuTtwqlos4xKx9AuJmWE3vEJXEZubm8YbTufCt8/KLGOnRPi8S0ZFijTyMpHcVLWI8KEL0q6TQtl2HQNJFd3xM9xY6YWsXPzpJnV9u1TUFz7JsTmedM2JjMWAwZF3kGlGRQHNmbZi7cSNgg33AvT8maTvGIHnlaEcImlcxi3C0ZOkW7NqyxucYiVRHLiZ5EFrJJLI6i3DqsxFCFKudPlYuY4y8R/YQgpEfnXN3k8ASAB4ID21DCBpvfe/u/V/bSL7fD2WpAOz9fr8qEJQ331kKTR+vXW8KP16aELVSr+vZWejjSBPH/APP199CElx3fdRWzybw99FCE3UUXovQhBrBjWRrBqELpiwTuoYaQDcDVIi3tx841hPhnjsWAseBDK4PrU2pywAcYZmTVqs+kqDx6SC/qteswGMLdL52kk3FiQCvRlu9tVwL7kXpfpTJ4xvV0NHUnUxF4OLA6cLvDKezIYppXDsU126tib3HAEKdvSRWWHw7OLqV/ikRfcxrrjP8Aqh+q3+PDTfDjHQEK5Ucdqka5zgY1GElUpUaTqZfeLXMDjETJnKdWC6zl8gNrxAjiDLH92quXVTvneKeN/wBm5W7y3t/xDTNDGzsANyTYek15Se5zbzoXdus9KlW6GjeJBgzGORERHu2LdpOjVbqXtfxte3srHXT95CbdHpbRbTp0Na1/juPna+y3m1HZkKkqRYg2NFOqHz58nai3WB9lDSciMeOvlsnEwZyXbgcI0pNrKAN2PAen2UmYYRoioZgwbdSvA055TCI47SsAuIIATifTcebxv7KwzfByPrdisaRdWMd4uOHj+VvGoRX+ViRHntx+KfOi2+o3w0mpmcchicRk0XMRPWJIEJuyjMnw88U6W1xSK6A7glSDYjiQeHrqf8quWr4oyNDgIsPiJ06OaUypLMU06SiKQNF16pNrkd2xqC5GvXJvbYWb5oaREYjuIBO9bYZJXeRLlAtx0aprA3tbR+NSuqGSBGGcz4JShYqZptdUvEvJDQ2BlOZdhjGG7KcYb4oWZtA478Ta1hc3vw4VvOXybW0tfcBZEc/ZBvWzDQFZyt9Z6OQ3sd9UBYbcb712y9MJpNQbogW3YbLtZSp+dqta29eOqOBwjKVJZ7BTdTLqgfIeWYRAgAycCIGMkTtCZIlLHbjYn2Ak+4Vt6B9fRW6xIFr9/Deul/7S3fok1fX6Ftf816U/21Prx/ctemofwyoRYmQASZ6Xo+W3Xjr+K5JI2BAI4gEb9hFx7q6UwhYdUXN1B3t53m29dY5gbOh/9qP+ha6smN2/jh/qauH1CGXlPQsVI2g0XTiSN4z3Z7+O1N8bVuUVxQPXalMlUrTIlZrWSmhRw9NZrQvUg2/Xoof8qKVqELVqNFZ3HjRQhN1FFLQhJWDVnSUIXXhseEj0iNWbfc99xbb0ah/EK04rGM+xsBe9lAAv3nvPprTppQtchjQZhMG1VSzo72ERAgYcs+creuM/Y9Fp7CL373RuH8FvXXGUrdooKV6GhuSiqVHVIvHIBo4DILpzDF9M2y26znjfz2vWyBxEL2Jvte9rA+dbbjpuL9l62ZXhL3Y9mw9Nbsxw1kB8fwNLlzQ4UxkrllKuaTra72jiDA4TGXDDYVyfCO/xUVr+bpHD5uqtONnDm6ppO97cDvt67bUdHvWUUQJsTbx/PwqUMa3EBVptNaqOjcZnaB74w7hwErsizVSirNCJCuwN7frsrXmWZ9MgBjKkG4Ibq78erburXicA0fEXHeNx6+6uboq5ZSpzfb70xXttsa00K2EiCC1skDKTEmNRnmtuBcg7cR2HcFTxBHaKchjbbhDqU/Kcey7Jqt+7qptjWxBp4XDggEeaaitAAMkYJ7RVR9RhYx0EcMtokHLI8AmSOcrJrcajYrY7fI0J6ht9mu2PNtLEiJAB5veNwfOa/Zt2ca7XwYOxFcOKysruu47u3/OgVKVQ9Zc1LLbbIC6mZEycAXccQSeRzxgYlcUMwV2YKbWcBb79dSo37eNK+KvL0oBG4Nhpvtbhtbs7qwaOjo6ZuiZ5KnFoqBl0HC9eyGe3LuyTsmPRgD0Z9Zh/+GtOXydHfzt7ebo+T9ZTW/CYbqL43/qrd5LSBcxpIGS1VNloqBlVxxAkYDWBs3Lgx8ylLBCtz/7Z9XUjB99c0RqW5JyYlxjdHGmofKY7Be7rdh7hx2p/i5l8XpJGIg1W2UhwL92q34U1Z3AtgBUml6bm1gXuBJGWEjjGpV4SLeylfvrpzbKJsLKYMRGY5FHmntBJAZSNmU22I22t2GuS/ZU6qkB9/wBeilJ/D8qx0UuihCTSe40V02P6H+VFCE0UUUtCElqzaM2BsbHgew28aQ1IcgsYWVgpAcnSx7wD+FRVqnRtvQntHWL1yt0V6DBI14iMOyd6jtqyFOeaZV0fWj3T5Q7V9PeKbBXTHteLzVDabLVs1Q06og9xG0HWP0zSmskUk2HEmw9JrE06cn4tUhfsQX9Z2H4+yio+40u2IslnNorsoj949gzJ5CTyTzDhgihB8kfzfKPtpMRhg6lOxvc3ya30VSX3TenFfTDZ6Rp9Hd6sRG6IjsUVljKkgixFYAf51J8VhVkFm27iN2H/AJLTDjMA8fEal+cOHr7qtqNpbUwyPnJYPSOhq1kJc3rM27B9YbtuXA4JxybE6ho7Rwt2j/61nisrVt16p/lb8qZoJShDjsN6lJ3N/GlbQHUal9mE+9Xeh3UtIWU0LQLxZGOuDkQdRGWGqJzKixjKkgixHG9d+U4jS3RsdmO3gf8AOnPGYQSizcfkn8D+7UfMRBKkbjiKYZUbXYQc/OKp7VZK2ibS2qzFs4HbtaeXbmMRhJOjoCVpy/E9Itz5w2b/ALT+vGumqx7S0lpW4s9SnXptq08iJHnaMuKY83weltY4P7j+vxrghhLMFHE/q9SLMoC8bADUbjT6b2PuJpcDhBENt2PFu/wHh99PMtV2lj7WQ+KzFq0EatvIYIpmHE8SZaN5idwOyAtghA2HmgFfZSiKs6BVdJWsDGjUru5OYWLBZakpX/ddM9rXZmUNb07hR6BUHXnJxQm1dTo726PSLWvw1edw7fd2VMuQ2ZxY3AjDPbUqdG6XsSlgAy+ABAv2EeimhOakdLc4gmO97BQGt3d3r91WVQVHNb0WULF2V1io164t468nME4HZGs6jsiCF1c6mVxYvLPKgOvEizxt26G0l1PgVN7d6r3V5+JHC3j+Fegec3NoocJ5CliXVUKg+ZEoHvNhYd1zVEY3AMm46yfO7uPH86ZFZt+4Tiqk6Or+r+stabkniBtO7fukwMVzE2Pv9/8AlWTjurA8azF9v1+uNSpFY6D4+yiujbx9gooQmakrKkFCEU/8nPMk+uv3GmA1Kcmg0QgHi3X9uy+4ClbYQKcb1fejlNzrbeGTQZ5iB53Lt4b1GM2wXRPt5rbr4d49VSeuTNoNcLjtXrr6vO/lvSNmq3H7itNpmwi1WYkDrNxb4jn74UXp/wCTw6j/AF1+5qsvIeanDY3L4JxI8Uzx3JsHQm5sShseFuDCo7mnILGZdrYxdPCbdeG7abdrJbUvHfiBbjVjaGF9MgZrG6ItFOz2tlSoYbjjskGO/DmmqisIJlkF0bV9/s/Ks6pyC0wV9Fp1GVGh9Mgg6wZCKFJHA2oorxSLlly2JjfQB6Cw/lFdVFN+KxEzy9BCVDBdRZhc+gXBqQXqmBOW3UEk8ULIC9rBLiB1QJccYGrfmcMcU4VxZrhtS6x5ycfFdrez860ZPm3S9R7Bxwtwb0fvU6DiK669CpvHnvUZ6DSdlIaeq7tB8CM/yKZ8mezgdjKR7BenimSNNEyr3OB6iRb3Gns1LbIvhw1hV/o454s76T82PI4ZSO2UUUUUotAiiiihC3YTENG6ujFSDsQSpHoI3FXbmeMkGUCUSMJDh4m1g2bUwS5v3m59tUavEekVdmc/7EH/AC0P3R03ZTF/gs9p1jTUs8j98DlIw4bslSkshYkknc3JJuSe8k8TSA91JRSi0S4MfhEAZwLHuHDew4dlN1rfr2/dTzjviz6R9600E+6rayOLqeJ1+AWA9IaNOlbIptAloJjaS6Std/Gis9I8PbS00qNM5oFLTlleVmTrk2jv6zbu/OuXvawS5T2ezVbRUFOkJPnE7AjJ8v6RtTeYPee70d9SMm+9IqhQABYDzRS1T1qxqunVqX0PRuj2WKlcGLji47T8Bq7daKSQ9VtrkA2A7TfYD08KWnTk0sXlUBnkSOFH6Z2dgoCRWZRc8SZCgt23rmky+8N3qe22gWezvq7Ae3V3wrD5TcpZMjwuXYaKAYiRlEZS5DN0aIGK6QdyzDsPGteC56cuZT0wmgkGzRtGWN+2xX8dJ8KgnODyow2aZhhlgxZghhR/9YYMlnJJOgEqd9Ki5txPdvsi5DTSWljzd5O5yvSDws3SHarSraGUjDjHb8CO9fM6dFzx1R7vjPcsOV3KPKswLPhsDixPc/tYo0UM3fIisdXpsG8eyom2JxcSGSXCShARd3Vltc284rvU8/8A5zNR1RmgA/4YB9W340ic3ayHXjcXNiG3tclVW/pJO3gQKUfbKbvauxzJ5YNhPWYWizuLqJc08gOYkz2KLqwYXUkrRXFleRZg12ghR1RjGSJEsWTqnznB47+vanD4IzMedgNX1ZEP/caiq0A10NcDzErU2TT1J7JrNLXbmuIO8QCeXYTmsKas3ybpTrVrNYatXmn0EcKcMFMXQMV0ne63vazFfwrbXDXOpPwzCs6tGhbqADxLXQRmN4O0eQoPisK8L6W2Ybix9YIIqT5PmYnXS28g4+I7/wA6yzrAdLHYeeu6+Pzh+u6ofFKVIIJBHA0+Ltpp45jz2FZN5qaFtfVk03ato/8ATdR2RtUuxqf6xF46D6gbfctOJptyvGrO2s7OqadP2ruvhvw7KcqSrk9VpzAhaTRjWHpa9My2o8uHCAMdhmZCKKKKgVmiiit2HwrudKIx8BqJ9goQcBJyWpeI9NXXnP8AsQf8tD90dVfDyRxzHbCyetGX7xVhYs4yTAeSeROGESR6taWumne2xF7U3ZgRekHEbCs9perTqPo3Xt6rwT12iBhjiQqhop/m5FY5dzhn/hu33XptxuTzwi8sMiD96Nh94pYscMwrxloo1PYe08CD4pqzD4tv4fvWmkgfr0bU7ZkD0TbHs+9aZxw/XiKs7F83z8AsX6TfTR9gf1ORpP6Jorfr8BRTazyY6kuQf2dfrNUZNSbIPiF+saUtvzfMK/8ARv6b9w+9qcKKKKqlu1pxMkgKLGql5JBGuo2AZthc+nxp6XkzhMLabNMUsj8RECdI4bBF6z+wDvvTFmcWqGRe5bj0r1h91LFyWgbJjjlDmcbnrdUATaDZbfN33qdr2ta2SRecG4DGTljqG2FktPuqisG5tu3gCcARgcBmcjjyhdS5tgGxMsuJwknk0ixphz0WlURFsxGki1zv1bmnB+TmXSRvPl+LdJVjd1SOXrHSpaxRv2g4d9R7lTyonxmEgRo0SMMouJQzu6qVuyXuq8TuO7eu3nJ5NYfByYZcONBfXqLObdUppN3PV4mpXOu1GUyS0umIMiGDXiMT71npBBMAgRqg47IWiHkpHNlcmYGWVpxqJBYFerJpN7rqJ078eNPOXcmY58NFiMfmUpR1VgjSBFA7ruTfh2AVlyFvLkuNi7V6aw9MSsPepquZIQIUbo7FieuZFNwLiwjG6jxN9x6q4sz6tepWpl5Ba/DXDSMAMoXjgxjWuuzI75zVh5RhC2KlwuV5gIoQqygAdJdrBHsx3J2U/wAXhXHlMmZ43DYify906DVdANLMVTVYFbWva1aucPI4sskw74MyRs3SdbWb3XQAQezZjWrIsdj8FhJcR5Or4bEec7sNVyWjuAG1C5J4qb7GuDU6azCtQIl10NvBskhxvDHMkAnbhhjiuvZfddIiZgmN3YtORyFoIyePWH85rtpp5Lt+wt++39Ip2ryuIqu4lfQNGOvWOkfqt7gEUw8psCLCZR22e3jbSfw9lP1IwBBBFwdmBrylUNNwcF7b7G210HUncjsOo/HdKgUcpUhgbEcCKm+BmZ41Z00s3Z3/AL1vk37q48PkUSya+K9itwU/vHtrhzrPCToiNrecw+UfDw8e373apFoIawc9m5Z6wU36JY+raXROAYIN4jX5jDPHBSEVKOTXIfEYyz26KP57A7/UHFvTtw41x8zxgxuJ0T2LohcIbaXYMvZ2gA3K+HdtV/SOqC5IVR32AFcUbGSZeu9I+kQaA2y4kiZOqdUbds4DYVFcn5AYOCxZOlbvk3HqQbW9N6lGGw6RjSiKo7lAUewU3YnlLhI+OJi9CsHPsW9Y4blHBKAY+lcHtWCYj1nRtTrOjbg2B2LN122ysOkqh5G0gx8B7k9UVirXF6yqVJopDS0UIVb88eVwrl0sywosgeLrqoDWMqA3I47EjeqGTt9H4ivQHPPik+DJU1dfXDYHYm0yE2vx2F68/wAZ/H7r14I1LpxcYveR8EnTnv8AdRWzovClr1cpoNSXIPiB6TUatUlyD4gek0pbfmuYV/6NfTT9k+9qcKKKKqlu0mi91+cNP2qdOb4GbKMZh/lL0oA7tUQK/wAwNM+JxSRLqc7e9j3Cuvm0z2KBsczX0FVkC7XNmZdIHaSZAPXXFqpPfZHFoMgsI4gxHesxp51PpaQvCQHAjXBGB7vgoFlMeqaJe+RB7WAqwMu5O/CmKxxxGIl1QTFVAsQAWkAAv5oGi1hXRkPIKJLPOz67B+jj0ho1O6NNKxCw32IvvuNhcU/4fk+kWqbDYiaBybu3SQ4qMnchpzESwFzxKnie+rG2B9SXUHQ6IBjIyCccYEAg4b1QULDUAF8DPKTORjCNZ/ODgq/5E8qxg4Z4uiaV5mQIgNr3Dq29jvuthbe9MEOSzs3R9EwcEgqVbXfuK2uLeiu/NcjlwmK0ONLK2oEHb5ylSOKnYgjsNW1lOVGBdCmwGzn57i4keT5/XV1VWuqiIsVdnUM/QoM6R9Vv70E7yBA3RG7mki1xFx+rhx/PZrBIKg/OfmJxQw9oJomjEmoSrpJDdHYrvv5pp15cQlMswGCU9eRolPiQm/q1yA1NsTNAsDHGNH5NurdI0YGobERrFGp6QHw1j5nG1UYc4rGYmGLAJJiVwsjNAzJYKpYMhkJOlR1BsSB2cNqQq6LDG0W0ThTJMGTJIMY7j3HtkNX2i7MwPPJaMqw4ikxUAPxcxUX42Uuv/bTjWjPeTs+X4+NcTIryzxvM5Thqcygi9hc3F9gBvW+obQxzHC8ZJAnjkfctp6P1xUsd0CLriOXtD+qOSKKKKXV2gGo3neT6LyRjqfKX5viPD7qklKDUtKq6m6QkrfYKVspXH56jsPnMa+wqB4PFyQuskTsjqbqykqwPeCOFXvzY4vBZqn+ss74xN3SSRrMvY8YFiV7wb2PHYiqkzXk8+l5oVJjQapAPkC4F/q3I9F6ZcvxskEiTROUkQ6lZTYgj9cO2rYXKrQ6JCwFUWmwVXUrxadxiRqMjHH9V7IwuT4eL4uCNfFUUH1m1zThUD5secKPM4tD2TFIP2idjjh0kfeveOwnusTNJ8VGnnuq+lgPvqQCBgknOLjLjJXRRTa2eYUccTAPTKn50q5zhjwxMJ9EqH8a8vN2rvoqkTdPYU40U3vhjILpiJF8UMZ/qRhTdi8pxf+6zBx4PDE9/WFW1BcRkJ7PiumU2uzeBxveDSmfnpP8A6TN9eH/Gjrzspvern5z8PmCZfIJ5YZItUdyo0tfpFsbaQPOt31TIAuPTQ10jKF5Vpim6A4O3j8wDPJdPTj9E0VosO/3f50V0ok12qSZB8QPrH76jbGpJkP8AZ1+saUtvzfMK/wDRv6afsn3tThRRRVUt2lyrBpPmWChkUMh1sVPA2UsAR2i6DapXJyRmxeZTzxCBmw7QfsZLxq8ZXUvWVTx0snD5NQ5Mb5PisJiT5qSkOe5HsGP2dVXPkr9Hm9uzEYQ+t4JRb+WY+yrCzuxaDkWkd/6LB6aaW2mo7XeaRwuiOwzG8KH5g+PgdJMTlsjosjySBD0ySuxbrto80BSAtxtv3kHhy3lTg3eEsvRTIYkJ06U6NQRI0um5d2uwYHstudwb4dgBcmwHE1VfLTlXhcZIcJgcDHmWJ4a9AaKLxMu1/SGA/e7KYNmYT58ZSbdK1w26YOrWMMcMCBr2ZYZYKEcpsXBI+AtIpCx2dgwbQvTuVDEdqxkbdlrU/ZlyyOJxDRZThXxUmq4kZbRIbizBT9RN5CBqjBteurkzzMaiJMxlv2+TwkhR4PJxPoW3DzjVs5XlkOGjEUESRIOCooUek24nxO9MU+owNCVr2g1aheRBKq/JeaN53GIzfEtO9toY2Koo3spcWIUfNQKBbiRVoZbl8OHjEUESRxjgqKFHibDtPf2120UJeVR3P4lsdl7d4ZfY6f8AlURNTHn/AP7Xlo+v/XFUONVlu9scPEra+i/0ep9rwCKKKKSWlRRRRQhPnJPG4iN3GGi6RpFKsugydQlb3Xhb3VHOWPN3jMLG2LMIWEt1lWxMdzxKgmyX28Nqsfma/tMv/CP9UVW1LErKVYBlYEEEXBB2IIPEEVZ2Npu3pOvBYj0irN9YNLo2zDetHWyymct0b814ogmZGDKxVhwINj3Vd3NdFl2YppcyLik3eMyWVhfz47AEr3i9x7DUa52ubQ4FjisKpbCMesu5MLE8D3xk8G7OB7Ca6y/GyQSJNE5SRDqVlNiCP1w7aadTY72hKpKNrr0QRSeWznBhes4eQ+AThhx63kPu1Wrvj5O4QcMLD641b7xUW5sOcSPMo+jksmKQddOAcD5cfh3js9FT+gUmDIDsXrrZaHe1UceLifFceHy6GPdIo0+oir9wrsooroADJLucXGSZUG56P9kzfXh/xo6876bC/wCuyvRHPT/smb68P+NHXnrT4V6vFu27/caK5ul8R+vVRQhNtSTIPiB9Y/fUaNSXIPiB9Y/fSlt+b5hX/o39N+6fe1OFFFFVS3a58xw3SRNH26dQ+su9TnI+UTeTZVjQjyyJMcOyJbU5eKWK1yQBdlRtyKgmaYno4nccbWH1jt7vO9VTPB5e2FyKKRR+0jMWM7txKkvtCbeqm6JhrSf4sOzHwWS9IQ01gBncM8J6v93cp1PyYxmY75jN0MHEYPDubEd2In2MniFsO6pblOVQYaMRYeJIkHyUAHrPaT4neuuJwyhgbggEHwO4rZVqskiiiq256OVE+EghgwrFZ8U5QOuzBV0htB+SxLqL9gvwNiBCsaSQKLkgDxNqbMXykwUXxuMw6fWmjX3FqpqLmkV7PicZLJIfOItx8Ge5PpPupww3NNl6+cZn+tIB/SopU2ykN/JMiyVSmTnk5RYXEY7CNDOkqRxtqZDqAJY7XHbsPbUZiziBjpEnoupA9tWrhub3LY9xhVJ/faR/czWrl5W8iMHJhJejgjjkRGdHjUIdSgkBrDrKbWN78aWq1qNVwme5W1htVpsTC2mGkEyZnHCM5EZbFASKKb8gnLwLfcqSvstb+q3qpwpR7CxxadS2tnrtr0m1W5OAPb8MkUUUVyplKOb7EYhcQVwqxs7owOu+kKCCx2Ydtu/0VasWBx7gdJi44+8RRBvY8n/jVLcm84fCTrMi6it+qeBBGm23t9IFWPDyqzSX4rAADsLo4HtLgGnrNUaGwZ4CfBZbTVlrGvfYKYBAkuuzw62zcO9SlsgVwVlnnlVgQwaTSpB2IKxhQQe41RXOpzWvgi2Jwil8Kd2Xi0Pp7Wj/AHuzt7zb8ZziQXPk0Pgbkj2ax763jKsyYdbHoveFw6OP5gKca/Y0+eJWdqUJ9usztcf6WkLyhl+MkgkSaJykiHUrKbEEV6a5r+cOPMoujksmLQddOAcfSR+HeOz0WqF8reZKQq02FlVpdyYtCwq3hHZtKHwNhvxFVGpxOAxINpIMRC1xcFWU+g8QR6iD2g1KMkk4BriAZ3ifEA9oXs+ubFYOOTz1B8eB9o3qJc2vL2LM4ACVTFIP2sXC/Z0kYPFD/KTY9hMqxeYRRWEk0cZPDW6rf0XO9BIAxQwOJhue5QHnayhY8tldXm2aIaGmd0N5UG6uxG17jxFUUT2frh+dX7zuZhDJlcojmjc64dldWO0qHgDVCqdz7ffXjbsYLqoahPykzv8AzWjQO8UVlo8PuorpRptqSZB8QvpP31Gmp2yvNAiCIRu7XJsu/EW9NLWpjnU4btVzoK0UqFqL6roF0jnIT/RXHHJi38zLpz/DIfuSuyLJs2fzcAF9JCn+ZxVf6u/XHaPitWdOWLU4ngx3iAm7McMZ58NhR/vHAa3EAlVB9QDGrzzbAiXDSwAWDxPGB3XQqKrvkPyFxkWNTF4vRZA1gHDNqKlRsotYXPbVpUViAGtaZj3rN1qxtNZ9Ygi9gAdQAj8+K382uYdPleDkvc9CqEnjqjvE1/WhqUVX3M/LphxeFO3k+MlVR3RuQ6e0ljVg1cAgiQs+RGCKqf8A0g8ADhMPixIEkw81kvxbpLEhR2sDGG37FarYqo/9IzDu2CgcAlEn69uzUjBSe4bEX/eFeoK25LyoxE8McvwdPdlB2aFVPivSSK2k8RccD28a3yZzjfk5Y/pfE4df6WanfLMbHNEksRBjdQVt3W4eBHC3ZauqqEuAJ6o7/iFdBpI9o93wKjXwjmZ4YCFfrYq/9MdN2fYTOMTBJCBg4g6lWs8jOVPFQSlhcbX8eyptRQKkGQB54lBpyIJPd4BefMqV4GfCTRmOVCTY+i5vbY7WII2Ipzrby3xiT5xeIhhGmh2G41BXvv221BfSK1VLaPaDtok8Vp9BVXPst12TSWg7gAR2THJFFFFQK5WcTEMCDY3BB8Rwr0ll2KEsUcnz0Vx/EoP415qq9ubfGdLgIrm5QFD/AAm4/lK09YXdYt3e5Zj0nozRp1NhI7R+SlNFFFWSxiKjfLDk1hMbHoxMBcgdV0U9In1WG49G4PaDUkooQF5nzjkLjcuxC4nAdPIsbakboJEdOOzArZxY2NuNzcAVaXJ3nRws8IGIVosQotNEUYgMNiRceae47jh4mxqZswaJXEjYV5HUEB1iDsAeIB86x7q5cSBn3KdgpueBdJGy8J7S094KrnnGz3L8RgZVgVOmLREN0WlrCRSevp2uoI41UR/Xv/Orl50Mbh2wL6cI8cheOzPh+jNhIpbr22utx41TYW1u+351zTMjMHh+pXVqADxDXDD94zrORAGHLasuiPjRWzS3j7RRUiWX/9k=",
+    "menu": [
+        {
+            "category": "Σαλάτες",
+            "price": {
+                "R": 8
+            },
+            "item": "Πράσινη σαλάτα με ροκφόρ",
+            "sub": "(πρασινάδες, ροκφόρ, κρουτόν, cranberries, πορτοκάλι, πιπεριά Φλωρίνης, vinaigrette πορτοκαλιού)"
+        },
+        {
+            "category": "Σαλάτες",
+            "price": {
+                "R": 8
+            },
+            "item": "Πράσινη σαλάτα με ροκφόρ",
+            "sub": "(πρασινάδες, ροκφόρ, κρουτόν, cranberries, πορτοκάλι, πιπεριά Φλωρίνης, vinaigrette πορτοκαλιού)"
+        },
+        {
+            "category": "Σαλάτες",
+            "price": {
+                "R": 7.5
+            },
+            "item": "Πράσινη (πανσέτα)",
+            "sub": "(πρασινάδες, σύκο, καρύδια, ντομάτα, κρουτόν, μυζήθρα, πανσέτα, σως ροδιού)"
+        },
+        {
+            "category": "Σαλάτες",
+            "price": {
+                "R": 7
+            },
+            "item": "Κοτοσαλάτα “Σκασιαρχείο”",
+            "sub": "(πρασινάδες, κρουτόν, ντομάτα, αγγούρι, γραβιέρα, vinaigrette)"
+        },
+        {
+            "category": "Σαλάτες",
+            "price": {
+                "R": 6.5
+            },
+            "item": "Χαρέμι",
+            "sub": "(πρασινάδες, λιαστή ντομάτα, κάπαρη, γραβιέρα, vinaigrette)"
+        },
+        {
+            "category": "Σαλάτες",
+            "price": {
+                "R": 7
+            },
+            "item": "Κρητική",
+            "sub": "(ντομάτα, αγγούρι, κρεμμύδι, πιπεριά, παξιμάδι, ελιές, μυζήθρα)"
+        },
+        {
+            "category": "Σαλάτες",
+            "price": {
+                "R": 6
+            },
+            "item": "Χωριάτικη",
+            "sub": "(ντομάτα, αγγούρι, κρεμμύδι, πιπεριά, φέτα)"
+        },
+        {
+            "category": "Σαλάτες",
+            "price": {
+                "R": 7
+            },
+            "item": "Τονοσαλάτα",
+            "sub": "(πρασινάδες, κάπαρη, αγγούρι, ντομάτα, vinaigrette εσπεριδοειδών, τόνος)"
+        },
+        {
+            "category": "Σαλάτες",
+            "price": {
+                "R": 4.5
+            },
+            "item": "Μαρουλοσαλάτα",
+            "sub": ""
+        },
+        {
+            "category": "Σαλάτες",
+            "price": {
+                "R": 4.5
+            },
+            "item": "Λαχανοσαλάτα",
+            "sub": ""
+        },
+        {
+            "category": "Σαλάτες",
+            "price": {
+                "R": 4.5
+            },
+            "item": "Ανάμεικτη",
+            "sub": "(λάχανο, μαρούλι)"
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 5.5
+            },
+            "item": "Ντάκος",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 4
+            },
+            "item": "Τζατζίκι",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 4.5
+            },
+            "item": "Φέτα",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 5
+            },
+            "item": "Σαγανάκι",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 5.5
+            },
+            "item": "Δαχτυλία κρεμμυδιού (συνοδεύονται με σως BBQ)",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 5.5
+            },
+            "item": "Καλτσούνια με σπανάκι",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 6
+            },
+            "item": "Κολοκυθοκεφτέδες",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 6.5
+            },
+            "item": "Ρεβυθοκεφτέδες",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 6
+            },
+            "item": "Ντολμαδάκια",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 3.5
+            },
+            "item": "Πατάτες τηγανιτές",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 4.5
+            },
+            "item": "Πατάτες τηγανιτές με τυρί",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 5
+            },
+            "item": "Πατάτες τηγανιτές με τυρί μπέικον",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 5.5
+            },
+            "item": "Πατάτες τηγανιτές με τυρί και σως μπέικον",
+            "sub": ""
+        },
+        {
+            "category": "Ορεκτικά",
+            "price": {
+                "R": 0.5
+            },
+            "item": "Πίτα τεμάχιο απλή/σικάλεως",
+            "sub": ""
+        },
+        {
+            "category": "Τυλιχτά",
+            "item": "Γύρος χοιρινός",
+            "price": {
+                "R": 3.5,
+                "XL": 6.5
+            }
+        },
+        {
+            "category": "Τυλιχτά",
+            "item": "Γύρος κοτόπουλο",
+            "price": {
+                "R": 3.5,
+                "XL": 6.5
+            }
+        },
+        {
+            "category": "Τυλιχτά",
+            "item": "Γύρος ανάμεικτος",
+            "price": {
+                "R": 3.5,
+                "XL": 6.5
+            }
+        },
+        {
+            "category": "Τυλιχτά",
+            "item": "Κοτομπουκιές",
+            "price": {
+                "R": 4,
+                "XL": 7
+            }
+        },
+        {
+            "category": "Τυλιχτά",
+            "item": "Μπιφτέκι λαχανικών",
+            "price": {
+                "R": 3.7,
+                "XL": 6.7
+            }
+        },
+        {
+            "category": "Τυλιχτά",
+            "item": "Κολοκυθοκεφτέδες",
+            "price": {
+                "R": 3.7,
+                "XL": 6.7
+            }
+        },
+        {
+            "category": "Τυλιχτά",
+            "item": "Ρεβυθοκεφτέδες",
+            "price": {
+                "R": 3.7,
+                "XL": 6.7
+            }
+        },
+        {
+            "category": "Τυλιχτά",
+            "item": "Ρεβυθοκεφτέδες",
+            "price": {
+                "R": 3.7,
+                "XL": 6.8
+            }
+        },
+        {
+            "category": "Τυλιχτά",
+            "item": "Κεμπάπ λαχανικών",
+            "price": {
+                "R": 4,
+                "XL": 7
+            }
+        },
+        {
+            "category": "Σκεπαστές",
+            "item": "Σκεπαστή με γύρο χοιρινό",
+            "des": "(τυρί, σως, μαρούλι, ντομάτα, πατάτες τηγανητές)",
+            "price": {
+                "R": 6.5,
+                "XL": 9
+            }
+        },
+        {
+            "category": "Σκεπαστές",
+            "item": "Σκεπαστή με γύρο κοτόπουλο",
+            "des": "(τυρί, σως, μαρούλι, ντομάτα, πατάτες τηγανητές)",
+            "price": {
+                "R": 7,
+                "XL": 9.5
+            }
+        },
+        {
+            "category": "Σκεπαστές",
+            "item": "Σκεπαστή μπιφτέκι",
+            "des": "(τυρί, σως, μαρούλι, ντομάτα, πατάτες τηγανητές)",
+            "price": {
+                "R": 7,
+                "XL": 9.5
+            }
+        },
+        {
+            "category": "Μερίδες",
+            "item": "Μερίδα γύρος χοιρινός",
+            "des": "",
+            "price": {
+                "R": 8
+            }
+        },
+        {
+            "category": "Μερίδες",
+            "item": "Μερίδα γύρος κοτόπουλο",
+            "des": "",
+            "price": {
+                "R": 9
+            }
+        },
+        {
+            "category": "Μερίδες",
+            "item": "Πατατόγυρος χοιρινός",
+            "des": "",
+            "price": {
+                "R": 9
+            }
+        },
+        {
+            "category": "Μερίδες",
+            "item": "Πατατόγυρος κοτόπουλο",
+            "des": "",
+            "price": {
+                "R": 9.5
+            }
+        },
+        {
+            "category": "Μερίδες",
+            "item": "Ποικιλία με γύρο χοιρινό",
+            "des": "",
+            "price": {
+                "R": 10,
+                "XL": 20
+            }
+        },
+        {
+            "category": "Μερίδες",
+            "item": "Ποικιλία με γύρο κοτόπουλο",
+            "des": "",
+            "price": {
+                "R": 11,
+                "XL": 22
+            }
+        },
+        {
+            "category": "Μερίδες",
+            "item": "Ποικιλία με γύρο ανάμεικτο",
+            "des": "",
+            "price": {
+                "R": 11,
+                "XL": 22
+            }
+        },
+        {
+            "category": "Μερίδες",
+            "item": "Γιαουρτλού",
+            "des": "(πίτα, πατάτες, κρεμμύδι, ντομάτα, κεμπάπ ή γύρο, γιαούρτι, σάλτσα καυτερή)",
+            "price": {
+                "R": 9.5
+            }
+        },
+        {
+            "category": "Μερίδες",
+            "item": "Κριτσίνι κοτόπουλο με πατάτες τηγανιτές και BBQ sauce",
+            "des": "",
+            "price": {
+                "R": 8.5
+            }
+        },
+        {
+            "category": "Μερίδες",
+            "item": "Κοτομπουκιές με πατάτες τηγανιτές και sauce γιαουρτιού",
+            "des": "",
+            "price": {
+                "R": 8
+            }
+        },
+        {
+            "category": "Μερίδες",
+            "item": "Μπιφτέκι λαχανικών",
+            "des": "με πατάτες τηγανιτές και σαλάτα",
+            "price": {
+                "R": 8
+            }
+        },
+        {
+            "category": "Μερίδες",
+            "item": "Μπιφτέκι λαχανικών",
+            "des": "με πατάτες τηγανιτές και σαλάτα",
+            "price": {
+                "R": 9
+            }
+        },
+        {
+            "category": "Κλαμπ σάντουιτς",
+            "item": "Με γύρο χοιρινό",
+            "des": "(3 πίτες, τυρί, σως, μαρούλι, ντομάτα, μπέικον, πατάτες τηγανητές)",
+            "price": {
+                "R": 9.5
+            }
+        },
+        {
+            "category": "Κλαμπ σάντουιτς",
+            "item": "Με γύρο χοιρινό",
+            "des": "(3 πίτες, τυρί, σως, μαρούλι, ντομάτα, μπέικον, πατάτες τηγανητές)",
+            "price": {
+                "R": 10
+            }
+        },
+        {
+            "category": "Γαλοπούλα",
+            "item": "Με γύρο χοιρινό",
+            "des": "(3 πίτες, τυρί, σως, μαρούλι, ντομάτα, μπέικον, πατάτες τηγανητές)",
+            "price": {
+                "R": 8
+            }
+        },
+        {
+            "category": "Ζαμπόν",
+            "item": "Με γύρο χοιρινό",
+            "des": "(3 πίτες, τυρί, σως, μαρούλι, ντομάτα, μπέικον, πατάτες τηγανητές)",
+            "price": {
+                "R": 8
+            }
+        }
+    ]
+}
